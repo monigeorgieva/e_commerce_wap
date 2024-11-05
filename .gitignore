@@ -1,0 +1,12 @@
+# Ignore Python cache and compiled files
+__pycache__/
+*.py[cod]
+
+# Ignore IDE folders (like .idea for PyCharm)
+.idea/
+
+# Ignore macOS specific files
+.DS_Store
+
+# Ignore cache
+echo "__pycache__/" >> .gitignore

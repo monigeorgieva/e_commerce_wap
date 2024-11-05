@@ -1,0 +1,9 @@
+base_url:
+  e_commerce_base_url: https://ecommerce-playground.lambdatest.io/
+
+mobile_emulation_device:
+  device_name: Pixel 7
+  browser: chrome
+
+mobile_emulation:
+  enabled: true
