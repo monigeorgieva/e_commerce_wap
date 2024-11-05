@@ -41,7 +41,3 @@ class Configuration:
     def get_device_name(self) -> str:
         """Return the chosen device name from the configuration."""
         return self._get_value('mobile_emulation_device.device_name')
-
-    def get_all_config(self) -> Dict[str, Any]:
-        """Return all configuration values."""
-        return self.config
