@@ -61,7 +61,6 @@ allure serve reports/allure-results
 │ └── shopping_cart_page.py
 ├── reports/
 ├── tests/
-│   ├── base_test.py
 │   ├── test_add_to_cart.py
 │   ├── test_category_selection.py
 │   ├── test_item_search.py
@@ -74,6 +73,9 @@ allure serve reports/allure-results
 ```
 
 ### **Video:**
+
+
+https://github.com/user-attachments/assets/b9df54d3-ad44-493f-a1fd-727617a6aa8d
 
 
 
